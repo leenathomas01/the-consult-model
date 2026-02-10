@@ -297,8 +297,6 @@ Healthcare is approaching an inflection point where:
 
 - [ARCHITECTURE.md](ARCHITECTURE.md) — Technical layer specifications
 - [INVARIANTS.md](INVARIANTS.md) — The constraints that make this work
-- [RELATED_WORK.md](RELATED_WORK.md) — Connections to broader architectural research
-
 ---
 
 ## Contributors
