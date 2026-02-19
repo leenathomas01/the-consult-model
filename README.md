@@ -306,6 +306,8 @@ Healthcare is approaching an inflection point where:
 - Thea/ChatGPT (architectural synthesis)
 - Claude (documentation and governance framing)
 
+--- 
+
 **[LinkedIn Post](https://www.linkedin.com/pulse/third-path-healthcare-ai-reads-never-writes-leena-thomas-wjhjc/?trackingId=wWxsIk3qCSJx0Xf7O3GgiQ%3D%3D)**
 
 ---
