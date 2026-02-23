@@ -323,7 +323,7 @@ MIT License — This is a thought experiment, freely shareable and adaptable.
 This thought experiment applies systems architecture principles to healthcare AI challenges.
 
 **For a complete catalog of related research:**  
-📂 [AI Safety & Systems Architecture Research Index](https://github.com/leenathomas01/research-index)
+📂 [Research Index](https://github.com/leenathomas01/research-index)
 
 **Architecturally related:**
 - [Connector OS](https://github.com/leenathomas01/connector-os-trenchcoat) — Session-bound state reasoning
